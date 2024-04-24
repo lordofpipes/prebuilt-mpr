@@ -55,6 +55,8 @@ blocked-distros = ["focal", "jammy", "bullseye"]
 
 [glow]
 
+[helix-bin]
+
 [hugo]
 
 [hyperfine]
